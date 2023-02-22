@@ -1,0 +1,2 @@
+module RestaurnantHelper
+end
